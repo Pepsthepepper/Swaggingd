@@ -1,0 +1,10 @@
+/* poi forever */
+[class^="panels-3wFtMD"]::before {
+    content: "";
+    width: 47px;
+    height: 47px;
+    left: 185px;
+    margin-top: -47px;
+    position: absolute;
+    background-image: url('https://cdn.discordapp.com/emojis/1120365974466596955.gif?size=48&name=poi&quality=lossless');
+}
